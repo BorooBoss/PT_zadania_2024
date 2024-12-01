@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/y3.dir/zadanie03.cpp.o -o y3 

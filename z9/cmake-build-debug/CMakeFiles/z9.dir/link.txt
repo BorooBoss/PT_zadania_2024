@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/z9.dir/zadanie09.cpp.o -o z9 

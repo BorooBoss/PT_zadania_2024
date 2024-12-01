@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/z8.dir/zadanie08.cpp.o -o z8 
