@@ -12,6 +12,6 @@ nesseary to be memorized by heart. It was fun to get to know this language but s
  Deep search, Width search, Shortest path in a graph, Dijkstra's algorithm  
  Lambda, Emplace, Template, Smart pointers...  
 
- ![First](https://logospng.org/download/c-plus-plus/c-plus-plus-2048.png)
+ ![First](https://logospng.org/download/c-plus-plus/c-plus-plus-512.png)
 
  
